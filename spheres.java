@@ -1,0 +1,5 @@
+class spheres  {
+    
+    double radius;
+    
+}
